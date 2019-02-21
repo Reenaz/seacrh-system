@@ -51,6 +51,8 @@ while len(links) < 100:
 
 links = links[:100]
 
+write_txt_to_file("links.txt", "\n".join(links))
+
 
 for index, link in enumerate(links):
     print(link)
