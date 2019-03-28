@@ -131,7 +131,7 @@ https://www.consumerreports.org/sleeping/how-to-get-better-sleep/
 https://www.consumerreports.org/join?INTKEY=I81H000MB
 https://www.consumerreports.org/road-trips/how-to-plan-the-perfect-road-trip/
 https://www.consumerreports.org/cro/news/index.htm#page=1
- https://www.consumerreports.org/cro/car-prices-build-buy-service/index.htm?ep=A16
+https://www.consumerreports.org/cro/car-prices-build-buy-service/index.htm?ep=A16
 https://www.consumerreports.org/electronics/guide-to-privacy/
 https://www.consumerreports.org/cro/money/best-time-to-buy-things/index.htm
 https://www.consumerreports.org/consumer-reports/consumer-101-tv-show/
@@ -153,7 +153,6 @@ https://www.consumerreports.org/cro/2012/02/consumer-reports-bookstore/index.htm
 https://www.consumerreports.org/video/
 https://www.consumerreports.org/cro/news/index.htm#url=/bin/feedinfo.espanol.tag=.json&title=Lo%20%C3%BAltimo&type=espanol&page=1
 https://www.consumerreports.org/cro/canada-extra/index.htm
-https://www.consumerreports.org/member-services/email-customer-care/
 https://www.consumerreports.org/cro/car-prices-build-buy-service/index.htm?ep=A0
 https://www.consumerreports.org/cro/car-prices-used-car-inventory/index.htm?CMP=consreps16
 https://www.consumerreports.org/join?INTKEY=I78SGBS
